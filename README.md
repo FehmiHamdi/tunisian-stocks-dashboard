@@ -36,7 +36,7 @@ tunisian-stock-dashboard/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/tunisian-stock-dashboard.git
+git clone https://github.com/FehmiHamdi/tunisian-stocks-dashboard.git
 cd tunisian-stock-dashboard
 ```
 
@@ -59,21 +59,10 @@ pip install -r requirements.txt
 streamlit run app/dashboard.py
 ```
 
-## 📸 Screenshot
 
-![Preview of the dashboard](preview.png)
-
-## 📌 Notes
-
-- Make sure the `data/` folder contains the CSV files:  
-  - `ALL_DATA_cleaned.csv` (historical stock prices)  
-  - `stock_list.csv` (tickers and company names)  
-- The dashboard is intended for educational and demonstration purposes.
 
 ## 📬 Contact
 
 Feel free to reach out via GitHub if you have any suggestions or feedback.
 
 ---
-
-**Made with ❤️ by a Software Development Student passionate about Data Science and AI**
